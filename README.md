@@ -4,9 +4,7 @@
  
 ##  👋 Sobre mim 👋
 <p align="justify">
-<u><span style="font-size: 100px;">Como desenvolvedora Full Stack, com 1 ano de experiência adquirida durante o curso na Trybe, tenho me dedicado principalmente a Javascript, NodeJS, ReactJS, Typescript e Python. Além disso, possuo habilidades em banco de dados e experiência em controle de versionamento com Git. Minha maior habilidade e fonte de orgulho é minha capacidade de aprender rapidamente. Comprometo-me a desenvolver soluções de alta qualidade, com disponibilidade e arquitetura sólidas. Busco constantemente aprimorar meu trabalho, adquirindo conhecimentos em novas tecnologias e compartilhando meu conhecimento com colegas. Estou motivada a enfrentar desafios e contribuir para o crescimento da empresa.
-<p align="center">
-Além disso, eu amo doguinhos 🐶!</span></u>
+<u><span style="font-size: 100px;">Como desenvolvedora Full Stack, com 1 ano de experiência adquirida durante minha jornada na Trybe, tive a oportunidade de me envolver em diversos projetos e tecnologias, desenvolvendo habilidades sólidas em Javascript, NodeJS, ReactJS, Typescript e Python. Além disso, adquiri valiosa experiência como desenvolvedora Front-end, focada em React, Next.js e Typescript, durante alguns meses. Agora, estou me aventurando e focando em C# e .NET, buscando expandir meu conjunto de habilidades e contribuir para projetos emocionantes.</span></u>
 </p>
 </p>
 <br>
@@ -51,6 +49,8 @@ Além disso, eu amo doguinhos 🐶!</span></u>
 <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat-square&logo=.net&logoColor=white" height="25"/>
  
 </div>
 </div>
@@ -76,3 +76,4 @@ Além disso, eu amo doguinhos 🐶!</span></u>
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/>
 </a>
 </p>
+
