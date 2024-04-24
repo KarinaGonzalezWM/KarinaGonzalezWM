@@ -4,7 +4,7 @@
  
 ##  👋 Sobre mim 👋
 <p align="justify">
-<u><span style="font-size: 100px;">Como desenvolvedora Full Stack, com 1 ano de experiência adquirida durante minha jornada na Trybe, tive a oportunidade de me envolver em diversos projetos e tecnologias, desenvolvendo habilidades sólidas em Javascript, NodeJS, ReactJS, Typescript e Python. Além disso, adquiri valiosa experiência como desenvolvedora Front-end, focada em React, Next.js e Typescript, durante alguns meses. Agora, estou me aventurando e focando em C# e .NET, buscando expandir meu conjunto de habilidades e contribuir para projetos emocionantes.</span></u>
+<u><span style="font-size: 100px;">Como desenvolvedora Full Stack, com 1 ano de experiência adquirida durante minha jornada na Trybe, tive a oportunidade de me envolver em diversos projetos e tecnologias, desenvolvendo habilidades sólidas em Javascript, NodeJS, ReactJS, Typescript e Python. Além disso, adquiri valiosa experiência como desenvolvedora Front-end, focada em React, Next.js e Typescript, durante alguns meses. Agora, estou me aventurando e focando em C# e .NET, buscando expandir meu conjunto de habilidades e contribuir para projetos emocionantes durante a minha jornada na Webmotors❤️.</span></u>
 </p>
 </p>
 <br>
