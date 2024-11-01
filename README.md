@@ -46,7 +46,6 @@
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=flat-square&logo=jest&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Testing%20Library-%23E33332.svg?style=flat-square&logo=testing-library&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" height="25"/>
