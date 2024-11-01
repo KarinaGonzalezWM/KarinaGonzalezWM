@@ -58,8 +58,8 @@
 <br><br>
 ## 🌟 Git Status 🌟
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KarinaGonzalez99&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaGonzalez99&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+<img src="https://github-readme-stats.vercel.app/api?username=KarinaGonzalez99&show_icons=true&theme=radical&cache_seconds=86400" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaGonzalez99&layout=compact&theme=radical&cache_seconds=86400" alt="Linguagens Mais Usadas" />
 </p>
 <br><br>
  
